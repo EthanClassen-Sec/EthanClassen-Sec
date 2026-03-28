@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👾 Ethan Classen
+
+> Cybersecurity student building real-world skills in networking, Linux, and security.
+
+## 🧠 Currently Learning
+- Networking fundamentals
+- Linux systems
+- Cybersecurity basics
+
+## 🧪 Projects
+- 🔧 Home Cyber Lab (in progress)
+- 🐧 Linux Command Log
+- 🌐 Networking Fundamentals
+
+## 🎯 Goal
+Aspiring SOC Analyst | Blue Team | Defensive Security
+
+## 🔗 Portfolio
+https://yourusername.github.io
