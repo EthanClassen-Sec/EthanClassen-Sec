@@ -1,7 +1,7 @@
 # EthanClassen-Sec.github.io
 <!-- HERO GIF -->
 <p align="center">
-  <img src="https://canva.link/k1uorm4am81ccbc" width="650"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ6OHgwOTdlcmlpc2puMHlvZTRydnloaWJrbWI3MHpoNmppOGtociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="650"/>
 </p>
 
 <h1 align="center">Hi, I'm Ethan👨🏽‍💻</h1>
@@ -28,7 +28,11 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ethanclassen-sec&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 📈 Activity Overview
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark" />
+</p>
 </td>
 </table>
 
@@ -68,4 +72,3 @@ CompTIA A+ • AZ-900 • DP-900 • ISC^2 CC
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
