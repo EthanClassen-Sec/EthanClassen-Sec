@@ -31,9 +31,6 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 </td>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EthanClassen-sec&theme=react-dark" width="100%"/>
-</p>
 
 ## 🛠️ Technical Skills
 
@@ -48,6 +45,9 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 </table>
 
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EthanClassen-sec&theme=react-dark" width="100%"/>
+</p>
 
 
 Crrently Studying:
