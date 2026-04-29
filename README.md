@@ -56,15 +56,15 @@
 <p align="center">
 
 <a href="https://github.com/Ethanclassen-sec/PC-Optimization-Lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ethanclassen-sec&repo=PC-Optimization-Lab&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ethanclassen-sec&repo=PC-Optimization-Lab&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Ethanclassen-sec/Basic-Networking-Lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ethanclassen-sec&repo=Basic-Networking-Lab&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ethanclassen-sec&repo=Basic-Networking-Lab&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Ethanclassen-sec/Cybersecurity-Awareness-Lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ethanclassen-sec&repo=Cybersecurity-Awareness-Lab&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ethanclassen-sec&repo=Cybersecurity-Awareness-Lab&theme=tokyonight" />
 </a>
 
 </p>
