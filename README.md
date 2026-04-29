@@ -38,8 +38,6 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 
 ## 🛠️ Technical Skills
 
-## 🛠️ Technical Skills
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-FF6B00?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-6A0DAD?style=for-the-badge)
