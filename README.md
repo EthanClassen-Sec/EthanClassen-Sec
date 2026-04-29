@@ -28,7 +28,7 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ethanclassen-sec&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-</td>
+
 </p>
 
 
