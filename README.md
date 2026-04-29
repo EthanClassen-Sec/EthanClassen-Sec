@@ -28,10 +28,11 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ethanclassen-sec&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-## 📈 Activity Overview
+</td>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EthanClassen-sec&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EthanClassen-sec&theme=react-dark" width="100%"/>
 </p>
 
 ## 🛠️ Technical Skills
