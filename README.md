@@ -38,12 +38,13 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 
 ## 🛠️ Technical Skills
 
-![Windows](https://img.shields.io/badge/Windows-2e2d2a?style=for-the-badge&logo=windows&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-4f8edb?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2e2d2a?style=for-the-badge)
-![IT Support](https://img.shields.io/badge/IT_Support-4f8edb?style=for-the-badge)
-![Command Line](https://img.shields.io/badge/Command_Line-2e2d2a?style=for-the-badge)
-![Sta• ISCtic Badge](https://img.shields.io/badge/macOS-4f8edb?style=for-the-badge)
+## 🛠️ Technical Skills
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-FF6B00?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-6A0DAD?style=for-the-badge)
+![IT Support](https://img.shields.io/badge/IT_Support-2ECC71?style=for-the-badge)
+![Command Line](https://img.shields.io/badge/Command_Line-000000?style=for-the-badge)
 <p align="center">
 </td>
 </table>
@@ -53,8 +54,7 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EthanClassen-sec&theme=react-dark" width="100%"/>
 </p>
 
-
-Crrently Studying:
+## 📜 Currently Studying
 </p>
 
 
