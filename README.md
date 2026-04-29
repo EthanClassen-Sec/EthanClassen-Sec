@@ -66,9 +66,15 @@ CompTIA A+ • AZ-900 • DP-900 • ISC^2 CC
 </p>
 
 
-
+<div align="center" style="width:100%;">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+</div>
+## 📫 Contact
+📧 Email: yourname@email.com  
+📍 Location: South Africa (Willing to relocate)  
+
+💡 Open to: IT Support • Internships • Entry-Level Tech Roles
