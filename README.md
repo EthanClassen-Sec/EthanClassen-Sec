@@ -1,7 +1,7 @@
 # EthanClassen-Sec.github.io
 <!-- HERO GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="650"/>
+  <img src="https://canva.link/k1uorm4am81ccbc" width="650"/>
 </p>
 
 <h1 align="center">Hi, I'm Ethan👨🏽‍💻</h1>
