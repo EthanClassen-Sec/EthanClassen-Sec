@@ -65,6 +65,8 @@ Crrently Studying:
 CompTIA A+ • AZ-900 • DP-900 • ISC^2 CC
 </p>
 
+---
+
 
 <div align="center" style="width:100%;">
 
@@ -73,7 +75,7 @@ CompTIA A+ • AZ-900 • DP-900 • ISC^2 CC
 
 ---
 </div>
-## 📫 Contact
+## 📫 Contact </br>
 📧 Email: yourname@email.com  
 📍 Location: South Africa (Willing to relocate)  
 
