@@ -36,12 +36,12 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 
 ## 🛠️ Technical Skills
 
-![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-03fc3d?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge)
-![IT Support](https://img.shields.io/badge/IT_Support-03fc3d?style=for-the-badge)
-![Command Line](https://img.shields.io/badge/Command_Line-000000?style=for-the-badge)
-![Sta• ISCtic Badge](https://img.shields.io/badge/macOS-03fc3d?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-2e2d2a2e2d2a?style=for-the-badge&logo=windows&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-dbb84f?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2e2d2a?style=for-the-badge)
+![IT Support](https://img.shields.io/badge/IT_Support-dbb84f?style=for-the-badge)
+![Command Line](https://img.shields.io/badge/Command_Line-2e2d2a?style=for-the-badge)
+![Sta• ISCtic Badge](https://img.shields.io/badge/macOS-dbb84f?style=for-the-badge)
 <p align="center">
 </td>
 </table>
