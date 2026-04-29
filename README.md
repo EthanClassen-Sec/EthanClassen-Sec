@@ -33,10 +33,6 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EthanClassen-sec&theme=react-dark" />
 </p>
-</td>
-</table>
-
-
 
 ## 🛠️ Technical Skills
 
@@ -47,6 +43,12 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 ![Command Line](https://img.shields.io/badge/Command_Line-000000?style=for-the-badge)
 ![Sta• ISCtic Badge](https://img.shields.io/badge/macOS-03fc3d?style=for-the-badge)
 <p align="center">
+</td>
+</table>
+
+
+
+
 Crrently Studying:
 </p>
 
