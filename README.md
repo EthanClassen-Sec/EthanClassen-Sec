@@ -1,7 +1,7 @@
 # EthanClassen-Sec.github.io
 <!-- HERO GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ6OHgwOTdlcmlpc2puMHlvZTRydnloaWJrbWI3MHpoNmppOGtociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="650"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ6OHgwOTdlcmlpc2puMHlvZTRydnloaWJrbWI3MHpoNmppOGtociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I'm Ethan👨🏽‍💻</h1>
@@ -11,7 +11,9 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 </p>
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 <table>
 <tr>
@@ -27,7 +29,7 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 <td valign="top" width="50%">
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ethanclassen-sec&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Ethanclassen-sec&theme=radical&no-frame=true&row=1&column=3)
 
 </p>
 
