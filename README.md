@@ -1,7 +1,7 @@
 # EthanClassen-Sec.github.io
 <!-- HERO GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ6OHgwOTdlcmlpc2puMHlvZTRydnloaWJrbWI3MHpoNmppOGtociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="650"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ6OHgwOTdlcmlpc2puMHlvZTRydnloaWJrbWI3MHpoNmppOGtociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I'm Ethan👨🏽‍💻</h1>
@@ -77,8 +77,8 @@ CompTIA A+ • AZ-900 • DP-900 • ISC^2 CC
 </div>
 <div align="center" style="width:100%;">
 ## 📫 Contact </br>
-📧 Email: yourname@email.com  
-📍 Location: South Africa (Willing to relocate)  
+📧 Email: ethanclassen.cyber@gmail.com
+📍 Location: South Africa
 
 💡 Open to: IT Support • Internships • Entry-Level Tech Roles
 </div>
