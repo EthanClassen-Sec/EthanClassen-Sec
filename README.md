@@ -75,8 +75,10 @@ CompTIA A+ • AZ-900 • DP-900 • ISC^2 CC
 
 ---
 </div>
+<div align="center" style="width:100%;">
 ## 📫 Contact </br>
 📧 Email: yourname@email.com  
 📍 Location: South Africa (Willing to relocate)  
 
 💡 Open to: IT Support • Internships • Entry-Level Tech Roles
+</div>
