@@ -31,7 +31,7 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 ## 📈 Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EthanClassen-sec&theme=react-dark" />
 </p>
 </td>
 </table>
