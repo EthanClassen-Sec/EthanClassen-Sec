@@ -18,9 +18,9 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 <td valign="top" width="50%">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ethanclassen-sec&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Ethanclassen-sec&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ethanclassen-sec&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Ethanclassen-sec&theme=prussian_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Ethanclassen-sec&theme=prussian_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ethanclassen-sec&theme=prussian_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </td>
 
