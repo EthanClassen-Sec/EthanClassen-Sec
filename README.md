@@ -150,7 +150,7 @@ CompTIA A+ • AZ-900 • DP-900 • ISC^2 CC
   </a>
 </div>
 
-<br clear="both">
+
 
 <div align="left">
   <img height="200" src="https://drive.google.com/file/d/17DTcqnQPEX25DXDAooCeM_YVmnUKcO1F/view?usp=drive_link"  />
