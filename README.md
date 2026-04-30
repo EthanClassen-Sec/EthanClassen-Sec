@@ -12,23 +12,23 @@
 </p>
 
 
-<pre style="color:#00FF9C; font-family:monospace;">
+<div style="font-family: monospace; color: #00FF9C;" align="left">
 
-┌──(ethan㉿portfolio)-[~/system]
+┌──(ethan㉿portfolio)-[~/system]  
 
-└─$ neofetch
+└─$ neofetch  
 
-■ User: ethan@github
+■ User: ethan@github  
 
-■ Role: Entry-Level IT Support
+■ Role: Entry-Level IT Support  
 
-■ Focus: Networking | Cybersecurity
+■ Focus: Networking | Cybersecurity  
 
-■ OS: Windows 11
+■ OS: Windows 11  
 
-■ Status: Actively Seeking Opportunities
+■ Status: Actively Seeking Opportunities  
 
-</pre>
+</div>
 
 <p align="left">
 
