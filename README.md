@@ -5,28 +5,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=4f8edb&center=true&vCenter=true&width=700&lines=Initializing+Portfolio...;IT+Support+%7C+Networking+%7C+Cybersecurity;Building+skills+through+hands-on+labs;Future+Cybersecurity+Specialist" />
 </p>
 
-## 🖥️ System Interface
-
 ┌──(ethan㉿portfolio)-[~/system]
 └─$ neofetch
 
-       .----.
-    _.'__    `.
- .--(#)(##)---/#\
-' @          /###\
-:         ,   ##### 
- `-..__.-' _.-\###/ 
-       `;_:    `"'
-
-User: ethan@github
--------------------------
-Role: Entry-Level IT Support
-Focus: Networking | Cybersecurity
-Learning: CompTIA A+ | AZ-900 | DP-900 | ISC² CC
-Environment: Home Lab
-OS: Windows 11
-Terminal: Windows Terminal
-Status: Actively Seeking Opportunities
+■ User: ethan@github
+■ Role: Entry-Level IT Support
+■ Focus: Networking | Cybersecurity
+■ OS: Windows 11
+■ Status: Actively Seeking Opportunities
 
 <p align="center">
 
