@@ -63,6 +63,26 @@ Status: Actively Seeking Opportunities
 
 Uptime: Consistent Daily Learnin
 
+
+
+```bash
+
+> scanning skills...
+
+✔ troubleshooting systems
+
+✔ analyzing network connectivity
+
+✔ identifying security threats
+
+> current objective...
+
+→ secure entry-level IT support role
+
+> status...
+
+[██████████] 100% commitment
+
 <!-- HERO GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ6OHgwOTdlcmlpc2puMHlvZTRydnloaWJrbWI3MHpoNmppOGtociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="25%%"/>
