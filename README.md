@@ -5,8 +5,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Initializing+Portfolio...;IT+Support+%7C+Networking+%7C+Cybersecurity;Building+skills+through+hands-on+labs;Future+Cybersecurity+Specialist" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=1000&color=00FF9C&width=700&lines=┌──(ethan@portfolio)-[~/system];└─$+neofetch;User:+ethan@github;Role:+Entry-Level+IT+Support;Focus:+Networking+%7C+Cybersecurity;OS:+Windows+11;Status:+Actively+Seeking+Opportunities" />
+<div align="left" style="font-family: monospace; color: #00FF9C; white-space: pre;">
 
+┌──(ethan@portfolio)-[~/system]
+└─$ neofetch
+
+User: ethan@github
+Role: Entry-Level IT Support
+Focus: Networking | Cybersecurity
+OS: Windows 11
+Status: Actively Seeking Opportunities
+
+</div>
 
 <p>
 
