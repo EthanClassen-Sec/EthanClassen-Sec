@@ -140,6 +140,12 @@ CompTIA A+ • AZ-900 • DP-900 • ISC^2 CC
 ---
 
 
+## 🎧 Currently Playing
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=312fou63xjywtkekqgj5bgyjtftu&cover_image=true&theme=novatorem" />
+</p>
+
 <div align="center" style="width:100%;">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
