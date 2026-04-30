@@ -14,7 +14,7 @@
 ■ OS: Windows 11
 ■ Status: Actively Seeking Opportunities
 
-<p align="center">
+<p align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=4F8EDB&height=3"/>
 </p>
 
