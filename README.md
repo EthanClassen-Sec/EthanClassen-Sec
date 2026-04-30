@@ -144,7 +144,7 @@ CompTIA A+ • AZ-900 • DP-900 • ISC^2 CC
 
 <br clear="both">
 
-<div align="right">
+<div align="center">
   <a href="https://open.spotify.com/user/312fou63xjywtkekqgj5bgyjtftu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=312fou63xjywtkekqgj5bgyjtftu&count=5" alt="Spotify recently played"  />
   </a>
@@ -152,9 +152,6 @@ CompTIA A+ • AZ-900 • DP-900 • ISC^2 CC
 
 
 
-<div align="left">
-  <img height="200" src="https://drive.google.com/file/d/17DTcqnQPEX25DXDAooCeM_YVmnUKcO1F/view?usp=drive_link"  />
-</div>
 
 
 <div align="center" style="width:100%;">
