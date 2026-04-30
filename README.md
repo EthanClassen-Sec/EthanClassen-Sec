@@ -9,7 +9,7 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=312fou63xjywtkekqgj5bgyjtftu&count=5" width = "50%"/>
 </div>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" src="https://giphy.com/gifs/adventure-time-bmo-battery-nY4bGhPkVEp2g" />
 
 
 <div align="left">
