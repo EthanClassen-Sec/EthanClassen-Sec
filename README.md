@@ -38,7 +38,7 @@
 
 <!-- HERO GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ6OHgwOTdlcmlpc2puMHlvZTRydnloaWJrbWI3MHpoNmppOGtociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="25%%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ6OHgwOTdlcmlpc2puMHlvZTRydnloaWJrbWI3MHpoNmppOGtociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="25%" />
 </p>
 
 
@@ -46,25 +46,24 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
 <table>
 <tr>
+
 <td valign="top" width="50%">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ethanclassen-sec&theme=transparent_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Ethanclassen-sec&theme=transparent_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ethanclassen-sec&theme=transparent_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+![](https://github-readme-stats.shion.dev/api?username=Ethanclassen-sec&theme=tokyonight&include_all_commits=true&count_private=true)
 
+![](https://streak-stats.demolab.com/?user=Ethanclassen-sec&theme=tokyonight)
 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ethanclassen-sec&theme=tokyonight&layout=compact)
+
+</td>
 
 <td valign="top" width="50%">
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ethanclassen-sec&theme=radical&no-frame=true&row=1&column=3)
-
-</p>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Ethanclassen-sec&theme=radical&no-frame=true&row=1&column=3" />
 
 ## 🛠️ Technical Skills
 
@@ -73,8 +72,10 @@
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-6A0DAD?style=for-the-badge)
 ![IT Support](https://img.shields.io/badge/IT_Support-2ECC71?style=for-the-badge)
 ![Command Line](https://img.shields.io/badge/Command_Line-000000?style=for-the-badge)
-<p align="center">
+
 </td>
+
+</tr>
 </table>
 
 
