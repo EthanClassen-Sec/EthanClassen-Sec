@@ -13,18 +13,26 @@
 ## 🧠 About Me
 
 <p align="center">
-I’m an aspiring IT Support and Cybersecurity professional focused on building strong foundations in networking, system administration, and troubleshooting.
-I learn by doing and creating hands-on labs, solving real-world problems, and continuously improving my technical skills.
-Currently working toward industry certifications while developing practical experience in:
+I’m an entry-level IT Support and Cybersecurity-focused technician building real, hands-on experience through labs and practical projects.<br><br>
+
+Instead of just studying theory, I actively simulate real-world scenarios — troubleshooting systems, optimizing performance, and exploring networking environments.<br><br>
+
+Currently focused on becoming job-ready by combining certifications with practical skills in:
 </p>
+
+## 🎯 What I Bring
+
+- Hands-on IT labs (not just theory)
+- Strong troubleshooting mindset
+- Fast learner with structured skill-building
+- Actively building real-world portfolio projects
 
 <p align="center">
-🔹 IT Support & Troubleshooting  
-🔹 Networking Fundamentals  
-🔹 Cybersecurity Concepts  
-🔹 Command Line & System Tools  
+🔹 System Troubleshooting & IT Support<br>
+🔹 Networking Fundamentals & Diagnostics<br>
+🔹 Cybersecurity Basics & Awareness<br>
+🔹 Command Line & System Environments
 </p>
-
 
 <div align="center">
   <p align="center">
@@ -40,7 +48,7 @@ Currently working toward industry certifications while developing practical expe
 
 <p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF9C&center=true&vCenter=true&width=600&lines=booting+ethan.system...;loading+modules...;initializing+network_stack...;access+granted" />
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF9C&center=true&vCenter=true&width=600&lines=booting+ethan.system...;loading+modules...;initializing+network_stack...;access+granted" />
 
 </p>
 
@@ -124,7 +132,7 @@ Currently working toward industry certifications while developing practical expe
 </p>
 
 ## 📜 Currently Studying
-</p>
+
 
 
 <p align="center">
