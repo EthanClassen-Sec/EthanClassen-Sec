@@ -5,6 +5,64 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=4f8edb&center=true&vCenter=true&width=700&lines=Initializing+Portfolio...;IT+Support+%7C+Networking+%7C+Cybersecurity;Building+skills+through+hands-on+labs;Future+Cybersecurity+Specialist" />
 </p>
 
+## 🖥️ System Interface
+
+<p align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF9C&center=true&vCenter=true&width=600&lines=booting+ethan.system...;loading+modules...;initializing+network_stack...;access+granted" />
+
+</p>
+
+```bash
+
+┌──(ethan㉿portfolio)-[~/system]
+
+└─$ neofetch
+
+        .----.
+
+     _.'__    `.
+
+ .--(#)(##)---/#\
+
+' @          /###\
+
+:         ,   ##### 
+
+ `-..__.-' _.-\###/ 
+
+       `;_:    `"'
+
+     .'"""""`.
+
+    /,  Ethan \\
+
+   //  System  \\
+
+   `-._______.-'
+
+User: ethan@github
+
+-------------------------
+
+Role: Entry-Level IT Support
+
+Focus: Networking | Cybersecurity
+
+Learning: CompTIA A+ | AZ-900 | DP-900 | ISC² CC
+
+Environment: Home Lab
+
+OS: Windows 11
+
+Terminal: Windows Terminal
+
+Tools: PowerShell | CMD | VirtualBox
+
+Status: Actively Seeking Opportunities
+
+Uptime: Consistent Daily Learnin
+
 <!-- HERO GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ6OHgwOTdlcmlpc2puMHlvZTRydnloaWJrbWI3MHpoNmppOGtociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="25%%"/>
