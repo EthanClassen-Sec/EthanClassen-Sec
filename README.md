@@ -7,10 +7,6 @@
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF9C&height=3"/>
-</p>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=1000&color=00FF9C&center=false&width=600&lines=┌──(ethan㉿portfolio)-[~/system];└─$+neofetch;User:+ethan@github;Role:+Entry-Level+IT+Support;Focus:+Networking+%7C+Cybersecurity;OS:+Windows+11;Status:+Actively+Seeking+Opportunities" />
 <p align="left">
 
