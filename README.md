@@ -12,7 +12,7 @@
 </p>
 ---
 <div align="center">
-  <img align="right" height="500"src="https://spotify-recently-played-readme.vercel.app/api?user=312fou63xjywtkekqgj5bgyjtftu&count=5" width = "100%"/>
+  <img align="right" height="300"src="https://spotify-recently-played-readme.vercel.app/api?user=312fou63xjywtkekqgj5bgyjtftu&count=5" width = "100%"/>
 </div>
 
 
