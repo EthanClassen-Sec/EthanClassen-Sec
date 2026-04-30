@@ -7,6 +7,27 @@
 
 ## 🖥️ System Interface
 
+┌──(ethan㉿portfolio)-[~/system]
+└─$ neofetch
+
+       .----.
+    _.'__    `.
+ .--(#)(##)---/#\
+' @          /###\
+:         ,   ##### 
+ `-..__.-' _.-\###/ 
+       `;_:    `"'
+
+User: ethan@github
+-------------------------
+Role: Entry-Level IT Support
+Focus: Networking | Cybersecurity
+Learning: CompTIA A+ | AZ-900 | DP-900 | ISC² CC
+Environment: Home Lab
+OS: Windows 11
+Terminal: Windows Terminal
+Status: Actively Seeking Opportunities
+
 <p align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF9C&center=true&vCenter=true&width=600&lines=booting+ethan.system...;loading+modules...;initializing+network_stack...;access+granted" />
