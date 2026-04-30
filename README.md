@@ -30,7 +30,7 @@ Currently working toward industry certifications while developing practical expe
 
 <div align="center">
   <p align="center">
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/ethan-classen-633a11360/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ethanclassen.cyber@gmail.com">
