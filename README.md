@@ -13,9 +13,9 @@
 ## 🧠 About Me
 
 <p align="center">
-I’m an aspiring IT Support and Cybersecurity professional focused on building strong foundations in networking, system administration, and troubleshooting.<br><br>
+I’m an aspiring IT Support and Cybersecurity professional focused on building strong foundations in networking, system administration, and troubleshooting.
 
-I learn by doing and creating hands-on labs, solving real-world problems, and continuously improving my technical skills.<br><br>
+I learn by doing and creating hands-on labs, solving real-world problems, and continuously improving my technical skills.
 
 Currently working toward industry certifications while developing practical experience in:
 </p>
