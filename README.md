@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312fou63xjywtkekqgj5bgyjtftu&count=5" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312fou63xjywtkekqgj5bgyjtftu&count=5" width = "50%"/>
 </div>
 
 <div align="left">
