@@ -12,6 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF9C&center=true&vCenter=true&width=600&lines=booting+ethan.system...;loading+modules...;initializing+network_stack...;access+granted" />
 
 </p>
+<p>
 
 ```bash
 
@@ -82,6 +83,8 @@ Uptime: Consistent Daily Learnin
 > status...
 
 [██████████] 100% commitment
+
+</p>
 
 <!-- HERO GIF -->
 <p align="center">
