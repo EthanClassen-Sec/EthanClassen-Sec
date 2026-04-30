@@ -12,21 +12,22 @@
 </p>
 
 
-<div style="font-family: monospace; color: #00FF9C;" align="left">
+<div align="left">
 
-┌──(ethan㉿portfolio)-[~/system]  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF9C&height=3"/>
 
-└─$ neofetch  
+<pre style="font-family: monospace;">
+┌──(ethan㉿portfolio)-[~/system]
+└─$ neofetch
 
-■ User: ethan@github  
+■ User: ethan@github
+■ Role: Entry-Level IT Support
+■ Focus: Networking | Cybersecurity
+■ OS: Windows 11
+■ Status: Actively Seeking Opportunities
+</pre>
 
-■ Role: Entry-Level IT Support  
-
-■ Focus: Networking | Cybersecurity  
-
-■ OS: Windows 11  
-
-■ Status: Actively Seeking Opportunities  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF9C&height=3"/>
 
 </div>
 
