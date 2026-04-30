@@ -21,11 +21,12 @@ Currently focused on becoming job-ready by combining certifications with practic
 </p>
 
 ## 🎯 What I Bring
-
+<p align="center">
 - Hands-on IT labs (not just theory)
 - Strong troubleshooting mindset
 - Fast learner with structured skill-building
 - Actively building real-world portfolio projects
+</p>
 
 <p align="center">
 🔹 System Troubleshooting & IT Support<br>
