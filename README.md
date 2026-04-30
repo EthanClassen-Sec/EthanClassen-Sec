@@ -91,7 +91,7 @@ Currently working toward industry certifications while developing practical expe
 ![IT Support](https://img.shields.io/badge/IT_Support-2ECC71?style=for-the-badge)
 ![Command Line](https://img.shields.io/badge/Command_Line-000000?style=for-the-badge)
 
-<img src="https://raw.githubusercontent.com/EthanClassen-sec/EthanClassen-sec/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/EthanClassen-Sec/EthanClassen-Sec/output/snake.svg" alt="Snake animation" />
 
 </td>
 
