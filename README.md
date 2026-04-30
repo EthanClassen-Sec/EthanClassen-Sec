@@ -12,79 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF9C&center=true&vCenter=true&width=600&lines=booting+ethan.system...;loading+modules...;initializing+network_stack...;access+granted" />
 
 </p>
-<p>
 
-```bash
-
-┌──(ethan㉿portfolio)-[~/system]
-
-└─$ neofetch
-
-        .----.
-
-     _.'__    `.
-
- .--(#)(##)---/#\
-
-' @          /###\
-
-:         ,   ##### 
-
- `-..__.-' _.-\###/ 
-
-       `;_:    `"'
-
-     .'"""""`.
-
-    /,  Ethan \\
-
-   //  System  \\
-
-   `-._______.-'
-
-User: ethan@github
-
--------------------------
-
-Role: Entry-Level IT Support
-
-Focus: Networking | Cybersecurity
-
-Learning: CompTIA A+ | AZ-900 | DP-900 | ISC² CC
-
-Environment: Home Lab
-
-OS: Windows 11
-
-Terminal: Windows Terminal
-
-Tools: PowerShell | CMD | VirtualBox
-
-Status: Actively Seeking Opportunities
-
-Uptime: Consistent Daily Learnin
-
-
-
-```bash
-
-> scanning skills...
-
-✔ troubleshooting systems
-
-✔ analyzing network connectivity
-
-✔ identifying security threats
-
-> current objective...
-
-→ secure entry-level IT support role
-
-> status...
-
-[██████████] 100% commitment
-
-</p>
 
 <!-- HERO GIF -->
 <p align="center">
