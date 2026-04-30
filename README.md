@@ -11,24 +11,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF9C&height=3"/>
 </p>
 
-
-<div align="left" style="color:#00FF9C; font-family: monospace; white-space: pre;">
-
-┌──(ethan㉿portfolio)-[~/system]
-
-└─$ neofetch
-
-■ User: ethan@github  
-
-■ Role: Entry-Level IT Support  
-
-■ Focus: Networking | Cybersecurity  
-
-■ OS: Windows 11  
-
-■ Status: Actively Seeking Opportunities  
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=1000&color=00FF9C&center=false&width=600&lines=┌──(ethan㉿portfolio)-[~/system];└─$+neofetch;User:+ethan@github;Role:+Entry-Level+IT+Support;Focus:+Networking+%7C+Cybersecurity;OS:+Windows+11;Status:+Actively+Seeking+Opportunities" />
 <p align="left">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF9C&center=true&vCenter=true&width=600&lines=booting+ethan.system...;loading+modules...;initializing+network_stack...;access+granted" />
