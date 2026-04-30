@@ -46,7 +46,7 @@ Currently focused on becoming job-ready by combining certifications with practic
 </div>
 
 
-<p>
+<p align="center">
 
   <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF9C&center=true&vCenter=true&width=600&lines=booting+ethan.system...;loading+modules...;initializing+network_stack...;access+granted" />
 
@@ -111,7 +111,7 @@ Currently focused on becoming job-ready by combining certifications with practic
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EthanClassen-sec&theme=react-dark" width="100%"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/EthanClassen-Sec/EthanClassen-Sec/output/snake.svg" />
+<img align="center" src="https://raw.githubusercontent.com/EthanClassen-Sec/EthanClassen-Sec/output/snake.svg" />
 
 ## 🚀 Featured Projects
 
