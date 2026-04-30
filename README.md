@@ -62,6 +62,7 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ethanclassen-sec&theme=tokyonight&layout=compact)
 
+<img src="https://raw.githubusercontent.com/Ethanclassen-sec/Ethanclassen-sec/output/snake.svg" alt="Snake animation" />
 </td>
 
 <td valign="top" width="50%">
