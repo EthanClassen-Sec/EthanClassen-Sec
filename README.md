@@ -6,9 +6,7 @@
 </p>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/312fou63xjywtkekqgj5bgyjtftu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312fou63xjywtkekqgj5bgyjtftu&count=5" alt="Spotify recently played"  />
-  </a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312fou63xjywtkekqgj5bgyjtftu&count=5" />
 </div>
 
 <div align="left">
