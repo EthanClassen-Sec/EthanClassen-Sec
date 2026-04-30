@@ -5,20 +5,31 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Initializing+Portfolio...;IT+Support+%7C+Networking+%7C+Cybersecurity;Building+skills+through+hands-on+labs;Future+Cybersecurity+Specialist" />
 </p>
 
-┌──(ethan㉿portfolio)-[~/system]
-└─$ neofetch
 
-■ User: ethan@github
-■ Role: Entry-Level IT Support
-■ Focus: Networking | Cybersecurity
-■ OS: Windows 11
-■ Status: Actively Seeking Opportunities
 
-<p align="left">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF9C&height=3"/>
 </p>
 
-<p align="center">
+<pre style="color:#00FF9C; font-family:monospace;">
+
+┌──(ethan㉿portfolio)-[~/system]
+
+└─$ neofetch
+
+■ User: ethan@github
+
+■ Role: Entry-Level IT Support
+
+■ Focus: Networking | Cybersecurity
+
+■ OS: Windows 11
+
+■ Status: Actively Seeking Opportunities
+
+</pre>
+
+<p align="left">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF9C&center=true&vCenter=true&width=600&lines=booting+ethan.system...;loading+modules...;initializing+network_stack...;access+granted" />
 
