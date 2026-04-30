@@ -15,7 +15,7 @@
 ■ Status: Actively Seeking Opportunities
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&pause=1000&color=00FF9C&center=true&width=600&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
 </p>
 
 <p align="center">
