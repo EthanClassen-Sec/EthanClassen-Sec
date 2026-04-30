@@ -5,16 +5,27 @@
 </p>
 <h1 align="center">Hi, I'm Ethan👨🏽‍💻</h1>
 
-#About
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Initializing+Portfolio...;IT+Support+%7C+Networking+%7C+Cybersecurity;Building+skills+through+hands-on+labs;Future+Cybersecurity+Specialist" />
 </p>
----
+
+## 🧠 About Me
+
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=312fou63xjywtkekqgj5bgyjtftu&cover_image=true&theme=novatorem" />
+I’m an aspiring IT Support and Cybersecurity professional focused on building strong foundations in networking, system administration, and troubleshooting.<br><br>
+
+I learn by doing — creating hands-on labs, solving real-world problems, and continuously improving my technical skills.<br><br>
+
+Currently working toward industry certifications while developing practical experience in:
 </p>
 
+<p align="center">
+🔹 IT Support & Troubleshooting  
+🔹 Networking Fundamentals  
+🔹 Cybersecurity Concepts  
+🔹 Command Line & System Tools  
+</p>
 
 
 <div align="left">
