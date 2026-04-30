@@ -1,7 +1,7 @@
 
 <!-- HERO GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ6OHgwOTdlcmlpc2puMHlvZTRydnloaWJrbWI3MHpoNmppOGtociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="25%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ6OHgwOTdlcmlpc2puMHlvZTRydnloaWJrbWI3MHpoNmppOGtociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="75%" />
 </p>
 <h1 align="center">Hi, I'm Ethan👨🏽‍💻</h1>
 
@@ -12,7 +12,7 @@
 </p>
 ---
 <div align="center">
-  <img align="right" height="150" src="https://spotify-recently-played-readme.vercel.app/api?user=312fou63xjywtkekqgj5bgyjtftu&count=5" width = "75%"/>
+  <img align="right" height="150" src="https://spotify-recently-played-readme.vercel.app/api?user=312fou63xjywtkekqgj5bgyjtftu&count=5" width = "100%"/>
 </div>
 
 
