@@ -9,6 +9,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Initializing+Portfolio...;IT+Support+%7C+Networking+%7C+Cybersecurity;Building+skills+through+hands-on+labs;Future+Cybersecurity+Specialist" />
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00FF9C&height=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00FF9C&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00FF9C&height=1"/>
+</p>
 
 ## 🧠 About Me
 
