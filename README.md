@@ -3,17 +3,19 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ6OHgwOTdlcmlpc2puMHlvZTRydnloaWJrbWI3MHpoNmppOGtociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="75%" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00FF9C&height=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00FF9C&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00FF9C&height=1"/>
+</p>
 <h1 align="center">Hi, I'm Ethan👨🏽‍💻</h1>
 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Initializing+Portfolio...;IT+Support+%7C+Networking+%7C+Cybersecurity;Building+skills+through+hands-on+labs;Future+Cybersecurity+Specialist" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00FF9C&height=1"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00FF9C&height=3"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00FF9C&height=1"/>
-</p>
+
 
 ## 🧠 About Me
 
@@ -176,7 +178,11 @@ CompTIA A+ • AZ-900 • DP-900 • ISC^2 CC
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00FF9C&height=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00FF9C&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00FF9C&height=1"/>
+</p>
 </div>
 <div align="center" style="width:100%;">
 📫 Contact </br>
